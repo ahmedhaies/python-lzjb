@@ -10,7 +10,7 @@ setup(name = "lzjb",
 	description = "A pure Python implementation of LZJB compression/decompression",
 	author = "Emil Brink",
 	author_email = "emil@obsession.se",
-	url = "https://github.com/unwind/python-lzjb",
+	url = "https://github.com/ahmedhaies/python-lzjb",
 	license = "BSD 2-clause",
 	py_modules = ["lzjb"],
 
